@@ -1,0 +1,14 @@
+.recipe{
+    min-width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image{
+    border-radius: 40%;
+}
+
+ol{
+    list-style: none;
+}
